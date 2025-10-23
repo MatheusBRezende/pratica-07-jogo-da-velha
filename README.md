@@ -40,4 +40,3 @@ Este é um jogo da velha interativo desenvolvido em React como parte de uma prá
     ```bash
    npm run dev
 4. **Acesse no navegador:**
-   http://localhost:5173
