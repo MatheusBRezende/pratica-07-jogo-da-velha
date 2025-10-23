@@ -30,5 +30,5 @@ Este é um jogo da velha interativo desenvolvido em React como parte de uma prá
 
 1. **Clone o repositório:**
    ```bash
-   git clone <(https://github.com/MatheusBRezende/pratica-07-jogo-da-velha)>
+   git clone (https://github.com/MatheusBRezende/pratica-07-jogo-da-velha)
    cd pratica-07-jogo-da-velha
