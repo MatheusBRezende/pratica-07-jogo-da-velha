@@ -1,4 +1,4 @@
-# Jogo da Velha (Tic Tac Toe) - React
+Jogo da Velha (Tic Tac Toe) - React
 
 ## 📋 Descrição do Projeto
 Este é um jogo da velha interativo desenvolvido em React como parte de uma prática de aprendizado. O projeto implementa todas as funcionalidades básicas do jogo junto com features extras como histórico de jogadas, placar e reinício do jogo.
@@ -10,15 +10,15 @@ Este é um jogo da velha interativo desenvolvido em React como parte de uma prá
 - **JavaScript ES6+** - Lógica do jogo
 
 ## ⚡ Funcionalidades
-- ✅ Jogo da velha completo com alternância entre X e O
-- ✅ Detecção automática de vencedor
-- ✅ Histórico de jogadas com navegação
-- ✅ Placar de vitórias (X vs O)
-- ✅ Botão de reinício do jogo atual
-- ✅ Botão para zerar o placar
-- ✅ Detecção de empates
-- ✅ Interface responsiva
-- ✅ Animações e feedback visual
+✅ Jogo da velha completo com alternância entre X e O  
+✅ Detecção automática de vencedor  
+✅ Histórico de jogadas com navegação  
+✅ Placar de vitórias (X vs O)  
+✅ Botão de reinício do jogo atual  
+✅ Botão para zerar o placar  
+✅ Detecção de empates  
+✅ Interface responsiva  
+✅ Animações e feedback visual  
 
 ## 🛠️ Instalação e Execução
 
@@ -32,3 +32,12 @@ Este é um jogo da velha interativo desenvolvido em React como parte de uma prá
    ```bash
    git clone https://github.com/MatheusBRezende/pratica-07-jogo-da-velha
    cd pratica-07-jogo-da-velha
+
+2. **Instale as dependências:**
+   ```bash
+   npm install
+3. **Execute o projeto:**
+    ```bash
+   npm run dev
+4. **Acesse no navegador:**
+   http://localhost:5173
